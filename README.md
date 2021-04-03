@@ -1,2 +1,4 @@
 # Hello-world
-a formal greeting and a place of indentured servitude
+a formal greeting to a place of indentured servitude
+
+this is all about me
